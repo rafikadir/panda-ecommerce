@@ -1,0 +1,10 @@
+.navbar {
+    margin-bottom: 50px;
+}
+.carousel-item {
+    background: #FEEAE9;
+    padding: 60px;
+}
+.carousel-item h2 {
+    margin-bottom: 20px;
+}
